@@ -161,7 +161,7 @@ Debt consolidation dominates at 47% of all applications. Reduce concentration ri
 
 ## 👤 Author
 
-**Hamza Anjum**  
+**Akshara Miriyala**  
 Data Analyst | Python · SQL · Power BI
 
 <p>
